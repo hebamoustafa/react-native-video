@@ -13,7 +13,7 @@ import com.yqritc.scalablevideoview.ScalableType;
 
 import javax.annotation.Nullable;
 import java.util.Map;
-
+//
 public class ReactVideoViewManager extends SimpleViewManager<ReactVideoView> {
 
     public static final String REACT_CLASS = "RCTVideo";
